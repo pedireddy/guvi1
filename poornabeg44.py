@@ -1,5 +1,5 @@
-num=int(input())
-if(num>0 and num<10):
+x=int(input())
+if(x>0 and x<10):
 	print("yes")
 else:
 	print("no")
